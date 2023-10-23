@@ -1,5 +1,5 @@
 - 👋 Hi I'm @ramazanmente
-- 👀 I'm interested in ... C#, JAVA, PHP
+- 👀 I'm interested in ... C , C# , JAVA , PHP
 - 🌱 I'm currently learning ... PHP
 - 💞️ I want to collaborate ...
 - 📫How can you contact me... menteramazan34@gmail.com
